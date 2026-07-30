@@ -4,7 +4,7 @@
 
 # Awesome-Cross-Chain-Infrastructure
 
-## Similar Projects to Cross-Chain Infrastructure Platforms
+## 🔍 Similar Projects to Cross-Chain Infrastructure Platforms
 
 **Cross-Chain Infrastructure** (also called interoperability protocols, messaging layers, or bridging frameworks) enables communication, token transfers, and arbitrary message passing between different blockchains. Leading solutions include LayerZero, Axelar, Wormhole, Chainlink CCIP, Hyperlane, Connext, Socket, LI.FI, Router Protocol, and deBridge.
 
@@ -28,24 +28,24 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software & Protocols
 
-### Leading Open / Permissionless Frameworks
+### 🚀 Leading Open / Permissionless Frameworks
 - **[Wormhole](https://github.com/wormhole-foundation)** [![GitHub stars](https://img.shields.io/github/stars/wormhole-foundation/wormhole?style=social&color=white)](https://github.com/wormhole-foundation/wormhole/stargazers) — Core messaging contracts, Guardian-related components, and Native Token Transfers (NTT) implementations are publicly available.
 - **[LayerZero](https://github.com/LayerZero-Labs)** [![GitHub stars](https://img.shields.io/github/stars/LayerZero-Labs/LayerZero-v2?style=social&color=white)](https://github.com/LayerZero-Labs/LayerZero-v2/stargazers) — Core endpoint contracts, OFT standards, and related tooling are open source. Modular security via DVNs allows applications to choose their own verification sets.
 - **[Hyperlane](https://github.com/hyperlane-xyz)** [![GitHub stars](https://img.shields.io/github/stars/hyperlane-xyz/hyperlane-monorepo?style=social&color=white)](https://github.com/hyperlane-xyz/hyperlane-monorepo/stargazers) — Fully open-source (Apache 2.0 / MIT components), modular interoperability framework. Features permissionless deployment to new chains, customizable Interchain Security Modules (ISMs), Warp Routes for tokens, and broad multi-VM support. Frequently highlighted as one of the most open and developer-controlled options.
 - **[Axelar](https://github.com/axelarnetwork)** [![GitHub stars](https://img.shields.io/github/stars/axelarnetwork/axelar-core?style=social&color=white)](https://github.com/axelarnetwork/axelar-core/stargazers) — Open-source components for the Axelar network, GMP, and related tooling.
 
-### Protocol-Level & Ecosystem Native Interoperability
+### 🌐 Protocol-Level & Ecosystem Native Interoperability
 - **[OP Superchain / OP Stack native interop](https://www.optimism.io/)** [![GitHub stars](https://img.shields.io/github/stars/ethereum-optimism/optimism?style=social&color=white)](https://github.com/ethereum-optimism/optimism/stargazers) — Emerging native interoperability features within the Optimism Superchain ecosystem.
 - **[Polkadot XCM (Cross-Consensus Messaging)](https://wiki.polkadot.network/docs/learn-xcm)** [![GitHub stars](https://img.shields.io/github/stars/paritytech/polkadot-sdk?style=social&color=white)](https://github.com/paritytech/polkadot-sdk/stargazers) — Native messaging format for the Polkadot/Kusama ecosystem enabling secure communication between parachains and the relay chain.
 - **[Cosmos IBC (Inter-Blockchain Communication)](https://github.com/cosmos/ibc)** [![GitHub stars](https://img.shields.io/github/stars/cosmos/ibc-go?style=social&color=white)](https://github.com/cosmos/ibc-go/stargazers) — The standard open protocol for sovereign chain-to-chain communication in the Cosmos ecosystem. Light-client based, highly secure, and widely battle-tested. No central vendor.
 
-### Other Notable Open-Source or Modular Projects
+### 🛠️ Other Notable Open-Source or Modular Projects
 - **[Across Protocol](https://github.com/across-protocol)** [![GitHub stars](https://img.shields.io/github/stars/across-protocol/contracts?style=social&color=white)](https://github.com/across-protocol/contracts/stargazers) — Intent-based bridging focused on fast, capital-efficient transfers (particularly strong on Ethereum L2s).
 - **[Hop Protocol](https://github.com/hop-protocol)** [![GitHub stars](https://img.shields.io/github/stars/hop-protocol/hop?style=social&color=white)](https://github.com/hop-protocol/hop/stargazers) — Optimistic rollup-focused bridging and liquidity network.
 - Various light-client, optimistic, and ZK-based bridge research implementations available on GitHub (search for “cross-chain messaging”, “optimistic bridge”, or “IBC light client”).
 - Aggregation and routing layers (such as open components related to LI.FI-style routing) and solver/intent frameworks continue to appear as open-source projects.
 
-### Typical Open-Source Approach
+### 💡 Typical Open-Source Approach
 Developers often combine:
 - A messaging layer (Hyperlane, LayerZero contracts, Wormhole, or IBC)
 - Token standards (OFT, Warp Routes, NTT, ITS, or native mint/burn)
@@ -56,11 +56,11 @@ This gives maximum auditability and reduces reliance on any single commercial op
 
 ---
 
-**How to contribute**  
+**🤝 How to contribute**  
 Fork this repository, add a new project (with link + short description + category), and open a pull request.  
 Prefer actively maintained open-source protocols, smart-contract frameworks, or tooling that enable secure cross-chain messaging or asset transfers.
 
-**License**  
+**📄 License**  
 This list is public domain / CC0. Feel free to copy into your own awesome list or README.
 
 Star the projects you find useful — open cross-chain infrastructure continues to mature quickly! 🌉
