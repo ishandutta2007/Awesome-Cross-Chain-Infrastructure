@@ -8,16 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms & Major Protocols
 
-- **[LayerZero](https://layerzero.network/)** — Omnichain messaging protocol with modular Decentralized Verifier Networks (DVNs), OFT (Omnichain Fungible Token) standard, and broad chain coverage. Widely used for cross-chain applications and token transfers.
-- **[Axelar](https://axelar.network/)** — Full-stack interoperability network using proof-of-stake validators, General Message Passing (GMP), and Interchain Token Service (ITS). Strong Cosmos ↔ EVM connectivity.
-- **[Wormhole](https://wormhole.com/)** — Cross-chain messaging and bridging protocol secured by a Guardian network. Excellent multi-ecosystem support (including Solana and other non-EVM chains) with Native Token Transfers (NTT).
-- **[Chainlink CCIP](https://chain.link/cross-chain)** — Cross-Chain Interoperability Protocol from Chainlink, focused on secure messaging and token transfers with a dual DON + Risk Management Network architecture. Popular for institutional and high-value use cases.
-- **[Hyperlane](https://www.hyperlane.xyz/)** — Modular, permissionless interoperability framework with Interchain Security Modules (ISMs) that apps can customize. Strong emphasis on open-source and permissionless chain expansion.
-- **[Connext](https://www.connext.network/)** — Modular cross-chain messaging and liquidity network (often used with intent-based or optimistic approaches).
-- **[Socket](https://www.socket.tech/)** — Chain-abstraction and interoperability infrastructure for seamless multi-chain experiences.
-- **[LI.FI](https://li.fi/)** — Aggregation and routing layer that sits on top of multiple bridges and messaging protocols to provide optimal cross-chain routes.
-- **[Router Protocol](https://routerprotocol.com/)** — Cross-chain infrastructure focused on messaging and asset transfers.
-- **[deBridge](https://debridge.finance/)** — Cross-chain messaging and interoperability protocol.
+| Platform / Protocol | Description | Pricing Structure | Free Tier / Limits |
+| :--- | :--- | :--- | :--- |
+| **[LayerZero](https://layerzero.network/)** | Omnichain messaging protocol with modular Decentralized Verifier Networks (DVNs), OFT (Omnichain Fungible Token) standard, and broad chain coverage. Widely used for cross-chain applications and token transfers. | Pay-per-transaction (gas + DVN/executor fees). No subscription or upfront licensing costs. | Unlimited free deployments and testing on testnets. |
+| **[Axelar](https://axelar.network/)** | Full-stack interoperability network using proof-of-stake validators, General Message Passing (GMP), and Interchain Token Service (ITS). Strong Cosmos ↔ EVM connectivity. | Pay-per-transaction (gas on destination + Axelar network fee). No subscription or licensing fees. | Unlimited free use on public testnets. |
+| **[Wormhole](https://wormhole.com/)** | Cross-chain messaging and bridging protocol secured by a Guardian network. Excellent multi-ecosystem support (including Solana and other non-EVM chains) with Native Token Transfers (NTT). | Pay-per-transaction (relayer fees on target chain). No subscription or integration costs. | Unlimited free use on public testnets. |
+| **[Chainlink CCIP](https://chain.link/cross-chain)** | Cross-Chain Interoperability Protocol from Chainlink, focused on secure messaging and token transfers with a dual DON + Risk Management Network architecture. Popular for institutional and high-value use cases. | Pay-per-transaction (execution gas + CCIP premium paid in LINK or wrapped native tokens). No subscription fees. | Unlimited free use on public testnets. |
+| **[Hyperlane](https://www.hyperlane.xyz/)** | Modular, permissionless interoperability framework with Interchain Security Modules (ISMs) that apps can customize. Strong emphasis on open-source and permissionless chain expansion. | No protocol fees. Users pay self-configured relayer gas costs. | Completely free to self-host relayers/validators; unlimited free testnet deployments. |
+| **[Connext](https://www.connext.network/)** | Modular cross-chain messaging and liquidity network (often used with intent-based or optimistic approaches). | Pay-per-transaction (router fees + network gas). No subscription fees. | Unlimited free use on public testnets. |
+| **[Socket](https://www.socket.tech/)** | Chain-abstraction and interoperability infrastructure for seamless multi-chain experiences. | Pay-per-transaction (bridge fee + gas). No subscription fees. | Unlimited free use on public testnets. |
+| **[LI.FI](https://li.fi/)** | Aggregation and routing layer that sits on top of multiple bridges and messaging protocols to provide optimal cross-chain routes. | Free to integrate. Charges 0.25% fee on swaps/bridges. Custom enterprise plans for high-volume integrators. | Free API key with default 100–200 requests/minute. Unauthenticated tier limited to 75 requests/2 hours for quotes. |
+| **[Router Protocol](https://routerprotocol.com/)** | Cross-chain infrastructure focused on messaging and asset transfers. | Pay-per-transaction (gas fee on Router Chain + gas on destination). No subscription fees. | Unlimited free use on public testnets. |
+| **[deBridge](https://debridge.finance/)** | Cross-chain messaging and interoperability protocol. | Pay-per-transaction (flat validator fee + 0.04% variable protocol fee + solver gas/spread). No subscription/license fees. | Free API integration; unlimited free use on public testnets. |
 
 ## 🔓 Open-Source Software & Protocols
 
