@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Awesome Cross-Chain Infrastructure Banner" width="100%">
+  <img src="assets/banner.svg" alt="Awesome Cross-Chain Infrastructure - Curated list of blockchain interoperability, messaging, and bridging protocols including LayerZero, Wormhole, and Chainlink CCIP" width="100%">
 </p>
 
-# Awesome-Cross-Chain-Infrastructure
+# Awesome Cross-Chain Infrastructure 🌉
 
-## 🔍 Similar Projects to Cross-Chain Infrastructure Platforms
+> A curated list of awesome cross-chain interoperability protocols, decentralized messaging layers, blockchain bridging frameworks, and open-source smart contracts enabling arbitrary message passing.
 
-**Cross-Chain Infrastructure** (also called interoperability protocols, messaging layers, or bridging frameworks) enables communication, token transfers, and arbitrary message passing between different blockchains. Leading solutions include LayerZero, Axelar, Wormhole, Chainlink CCIP, Hyperlane, Connext, Socket, LI.FI, Router Protocol, and deBridge.
+## 🔍 Overview of Blockchain Interoperability
 
-Below is a **curated list** of notable platforms and their open-source equivalents. Many leading protocols publish core smart contracts and messaging logic as open source, while offering hosted services, validator networks, or commercial support. The emphasis is on **open-source** and permissionless options that developers can audit, self-host components of, or extend.
+**Cross-Chain Infrastructure** (also referred to as interoperability protocols, messaging layers, or bridging frameworks) enables secure communication, token transfers, and arbitrary contract calls across disparate blockchain networks (EVM, Cosmos, Solana, etc.). Leading enterprise and decentralized solutions include LayerZero, Axelar, Wormhole, Chainlink CCIP, Hyperlane, Connext (Everclear), Socket, LI.FI, Router Protocol, and deBridge.
+
+This repository serves as a **curated directory** of major hosted platforms, SaaS APIs, and open-source implementations. The emphasis is on **open-source software (OSS)** and permissionless protocols that developers can audit, self-host components of, or extend for multichain dApp development.
 
 ## 🏢 SaaS / Hosted Platforms & Major Protocols
 
