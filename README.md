@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Cross-Chain Infrastructure Banner" width="100%">
+</p>
+
 # Awesome-Cross-Chain-Infrastructure
 
 ## Similar Projects to Cross-Chain Infrastructure Platforms
